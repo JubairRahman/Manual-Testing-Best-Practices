@@ -1,6 +1,6 @@
 # Manual Testing Best Practices and Techniques
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](./LICENSE)
 
 ## Overview
 
